@@ -1,4 +1,3 @@
-Here's a comprehensive README for **OneXNetwork / OneTouchNetwork** with detailed sections for each part:
 
 # README.md for OneXNetwork / OneTouchNetwork
 
